@@ -1,0 +1,32 @@
+@import url(reset.css);
+
+header, footer {
+	height: 100px;
+	background-color: red;
+    
+}
+header {
+	width: 1350px;
+	position: fixed;
+}
+h2 {
+	font-size: 20pt;
+	padding: 30px;
+	text-transform: uppercase;
+
+}
+.one h2, .two h2, .three h2 {
+	font-weight: bold;
+}
+section {
+	border: 1px solid black;
+	border-radius: 10px;
+	height: 500px;
+	width: 350px;
+	display: inline-block;
+	margin: 140px 40px 40px;
+
+}
+p {
+	margin: 30px;
+}
