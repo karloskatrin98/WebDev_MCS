@@ -21,8 +21,9 @@ div .link {
 }
 .image {     
 	background-image: url(https://s1.1zoom.ru/big0/848/307782-alexfas01.jpg);
-	height: 800px;
-	width: 1350px;
+	/*height: 800px;
+	width: 1350px;*/
+	padding: 400px;
 	background-size: cover;
 }
 h1 {
@@ -40,24 +41,26 @@ h1 {
 }
 
 .flex-container {
-	height: 450px;
+	/*height: 450px;*/
 	display: flex;
 	margin: 30px 0 0 50px;
+	
 }
 img {
 	height: 400px;
 	width: 400px;
 }
 .one, .two {
-	height: 200px;
-	width: 1350px;
+	/*height: 200px;
+	width: 1350px;*/
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	padding: 100px 200px;
 	}
 .content {
-	height: 100px;
-	width: 700px;
+	/*height: 100px;
+	width: 700px;*/
 	border: 2px solid black;
 	border-radius: 10px;
 	padding: 10px;
