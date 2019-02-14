@@ -1,8 +1,8 @@
 @import url(reset.css);
 
 @keyframes rotate {
-		from { transform: rotate(180deg) translateX(700px) rotate(180deg); }
-		to  { transform: rotate(540deg) translateX(700px) rotate(180deg); }
+		from { transform: rotate(360deg) }/*{ transform: rotate(180deg) translateX(180px) rotate(180deg); }*/
+		to { )} /*{ transform: rotate(540deg) translateX(180px) rotate(180deg); }*/
 		}
 		.page {
 		  /* эти единицы измерения мы изучим чуть похже */
