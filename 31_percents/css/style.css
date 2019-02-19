@@ -1,0 +1,29 @@
+@import url(reset.css);
+
+
+.outer {
+	height: 300px;
+	background-color: black;
+	width: 70%;
+	margin: auto;
+}
+.inner {
+	height: 100px;
+	background-color: blue;
+	width: 70%;
+}
+.round {
+	width: 200px;
+	height: 200px;
+	background-color: red;
+	border-radius: 50%;
+}
+.popup {
+	position: fixed;
+	width: 500px;
+	height: 200px;
+	border: 2px solid blue;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%); /*сдвиг самого себя на 50% по х и по у*/
+}

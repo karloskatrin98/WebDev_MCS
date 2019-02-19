@@ -32,6 +32,6 @@
 			left: 50%;
 			margin-top: -200px;
 			margin-left: -200px;
-			animation: rotate 2s ease 0s infinite ;
+			animation: rotate 2s linear 0s infinite ;
 			}
 	        

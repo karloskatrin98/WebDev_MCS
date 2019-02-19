@@ -36,6 +36,6 @@ body {
 	animation-delay: .5s;
 	animation-iteration-count: infinite;/*постоянная анимация*/
 	/*animation-direction: alternate;/*туда сюда*/
-	animation: moving 2s ease-in-out .5s infinite  ;
+	animation: moving 2s ease-in-out .5s infinite alternate running;
 
 }
